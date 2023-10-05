@@ -263,6 +263,8 @@ body {
     position:relative;
     width:100%;
     border-bottom: 1px solid #bbb;
+    overflow: hidden;
+    
 }
 .model_k {
     position:absolute;
